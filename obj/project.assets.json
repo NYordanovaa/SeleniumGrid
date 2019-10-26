@@ -5964,11 +5964,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nadezda\\Desktop\\Проекти за оценяване\\my pom\\Homework\\Homework.csproj",
+      "projectUniqueName": "C:\\Users\\nadezda\\Documents\\GitHub\\SeleniumGrid\\Homework.csproj",
       "projectName": "Homework",
-      "projectPath": "C:\\Users\\nadezda\\Desktop\\Проекти за оценяване\\my pom\\Homework\\Homework.csproj",
+      "projectPath": "C:\\Users\\nadezda\\Documents\\GitHub\\SeleniumGrid\\Homework.csproj",
       "packagesPath": "C:\\Users\\nadezda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nadezda\\Desktop\\Проекти за оценяване\\my pom\\Homework\\obj\\",
+      "outputPath": "C:\\Users\\nadezda\\Documents\\GitHub\\SeleniumGrid\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

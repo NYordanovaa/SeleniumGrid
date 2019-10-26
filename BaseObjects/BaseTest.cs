@@ -3,8 +3,6 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Remote;
 using System;
-using System.IO;
-using System.Reflection;
 
 namespace Homework
 {
@@ -20,7 +18,7 @@ namespace Homework
             ChromeOptions options = new ChromeOptions();
             options.PlatformName = "windows";
             options.BrowserVersion = "77.0";
-            Driver = new RemoteWebDriver(new Uri("http://192.168.100.45:5555/wd/hub"), options.ToCapabilities(), TimeSpan.FromSeconds(10));
+            Driver = new RemoteWebDriver(new Uri("http://192.168.100.45:4444/wd/hub"), options.ToCapabilities(), TimeSpan.FromSeconds(10));
             Driver.Manage().Timeouts().PageLoad = TimeSpan.FromSeconds(30);
             Driver.Manage().Window.Maximize();
             Driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(15);
