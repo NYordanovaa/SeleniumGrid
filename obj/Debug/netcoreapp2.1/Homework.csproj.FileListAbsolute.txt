@@ -1,0 +1,45 @@
+C:\Users\nadezda\Desktop\Проекти за оценяване\Homework\obj\Debug\netcoreapp2.1\Homework.csprojAssemblyReference.cache
+C:\Users\nadezda\Desktop\Проекти за оценяване\Homework\obj\Debug\netcoreapp2.1\Homework.csproj.CoreCompileInputs.cache
+C:\Users\nadezda\Desktop\Проекти за оценяване\Homework\obj\Debug\netcoreapp2.1\Homework.AssemblyInfoInputs.cache
+C:\Users\nadezda\Desktop\Проекти за оценяване\Homework\obj\Debug\netcoreapp2.1\Homework.AssemblyInfo.cs
+C:\Users\nadezda\Desktop\Проекти за оценяване\Homework\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\nadezda\Desktop\Проекти за оценяване\Homework\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\nadezda\Desktop\Проекти за оценяване\Homework\bin\Debug\netcoreapp2.1\nunit.engine.dll
+C:\Users\nadezda\Desktop\Проекти за оценяване\Homework\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
+C:\Users\nadezda\Desktop\Проекти за оценяване\Homework\bin\Debug\netcoreapp2.1\Homework.deps.json
+C:\Users\nadezda\Desktop\Проекти за оценяване\Homework\bin\Debug\netcoreapp2.1\Homework.runtimeconfig.json
+C:\Users\nadezda\Desktop\Проекти за оценяване\Homework\bin\Debug\netcoreapp2.1\Homework.runtimeconfig.dev.json
+C:\Users\nadezda\Desktop\Проекти за оценяване\Homework\bin\Debug\netcoreapp2.1\Homework.dll
+C:\Users\nadezda\Desktop\Проекти за оценяване\Homework\bin\Debug\netcoreapp2.1\Homework.pdb
+C:\Users\nadezda\Desktop\Проекти за оценяване\Homework\obj\Debug\netcoreapp2.1\Homework.dll
+C:\Users\nadezda\Desktop\Проекти за оценяване\Homework\obj\Debug\netcoreapp2.1\Homework.pdb
+C:\Users\nadezda\Desktop\Homework-NadejdaYordanova- BEST PRACTICES - DESIGN PATTERNS, POM (1)\Homework\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\nadezda\Desktop\Homework-NadejdaYordanova- BEST PRACTICES - DESIGN PATTERNS, POM (1)\Homework\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\nadezda\Desktop\Homework-NadejdaYordanova- BEST PRACTICES - DESIGN PATTERNS, POM (1)\Homework\bin\Debug\netcoreapp2.1\nunit.engine.dll
+C:\Users\nadezda\Desktop\Homework-NadejdaYordanova- BEST PRACTICES - DESIGN PATTERNS, POM (1)\Homework\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
+C:\Users\nadezda\Desktop\Homework-NadejdaYordanova- BEST PRACTICES - DESIGN PATTERNS, POM (1)\Homework\bin\Debug\netcoreapp2.1\Homework.deps.json
+C:\Users\nadezda\Desktop\Homework-NadejdaYordanova- BEST PRACTICES - DESIGN PATTERNS, POM (1)\Homework\bin\Debug\netcoreapp2.1\Homework.runtimeconfig.json
+C:\Users\nadezda\Desktop\Homework-NadejdaYordanova- BEST PRACTICES - DESIGN PATTERNS, POM (1)\Homework\bin\Debug\netcoreapp2.1\Homework.runtimeconfig.dev.json
+C:\Users\nadezda\Desktop\Homework-NadejdaYordanova- BEST PRACTICES - DESIGN PATTERNS, POM (1)\Homework\bin\Debug\netcoreapp2.1\Homework.dll
+C:\Users\nadezda\Desktop\Homework-NadejdaYordanova- BEST PRACTICES - DESIGN PATTERNS, POM (1)\Homework\bin\Debug\netcoreapp2.1\Homework.pdb
+C:\Users\nadezda\Desktop\Homework-NadejdaYordanova- BEST PRACTICES - DESIGN PATTERNS, POM (1)\Homework\obj\Debug\netcoreapp2.1\Homework.csprojAssemblyReference.cache
+C:\Users\nadezda\Desktop\Homework-NadejdaYordanova- BEST PRACTICES - DESIGN PATTERNS, POM (1)\Homework\obj\Debug\netcoreapp2.1\Homework.csproj.CoreCompileInputs.cache
+C:\Users\nadezda\Desktop\Homework-NadejdaYordanova- BEST PRACTICES - DESIGN PATTERNS, POM (1)\Homework\obj\Debug\netcoreapp2.1\Homework.AssemblyInfoInputs.cache
+C:\Users\nadezda\Desktop\Homework-NadejdaYordanova- BEST PRACTICES - DESIGN PATTERNS, POM (1)\Homework\obj\Debug\netcoreapp2.1\Homework.AssemblyInfo.cs
+C:\Users\nadezda\Desktop\Homework-NadejdaYordanova- BEST PRACTICES - DESIGN PATTERNS, POM (1)\Homework\obj\Debug\netcoreapp2.1\Homework.dll
+C:\Users\nadezda\Desktop\Homework-NadejdaYordanova- BEST PRACTICES - DESIGN PATTERNS, POM (1)\Homework\obj\Debug\netcoreapp2.1\Homework.pdb
+C:\Users\nadezda\Desktop\Проекти за оценяване\my pom\Homework\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\nadezda\Desktop\Проекти за оценяване\my pom\Homework\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\nadezda\Desktop\Проекти за оценяване\my pom\Homework\bin\Debug\netcoreapp2.1\nunit.engine.dll
+C:\Users\nadezda\Desktop\Проекти за оценяване\my pom\Homework\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
+C:\Users\nadezda\Desktop\Проекти за оценяване\my pom\Homework\bin\Debug\netcoreapp2.1\Homework.deps.json
+C:\Users\nadezda\Desktop\Проекти за оценяване\my pom\Homework\bin\Debug\netcoreapp2.1\Homework.runtimeconfig.json
+C:\Users\nadezda\Desktop\Проекти за оценяване\my pom\Homework\bin\Debug\netcoreapp2.1\Homework.runtimeconfig.dev.json
+C:\Users\nadezda\Desktop\Проекти за оценяване\my pom\Homework\bin\Debug\netcoreapp2.1\Homework.dll
+C:\Users\nadezda\Desktop\Проекти за оценяване\my pom\Homework\bin\Debug\netcoreapp2.1\Homework.pdb
+C:\Users\nadezda\Desktop\Проекти за оценяване\my pom\Homework\obj\Debug\netcoreapp2.1\Homework.csprojAssemblyReference.cache
+C:\Users\nadezda\Desktop\Проекти за оценяване\my pom\Homework\obj\Debug\netcoreapp2.1\Homework.csproj.CoreCompileInputs.cache
+C:\Users\nadezda\Desktop\Проекти за оценяване\my pom\Homework\obj\Debug\netcoreapp2.1\Homework.AssemblyInfoInputs.cache
+C:\Users\nadezda\Desktop\Проекти за оценяване\my pom\Homework\obj\Debug\netcoreapp2.1\Homework.AssemblyInfo.cs
+C:\Users\nadezda\Desktop\Проекти за оценяване\my pom\Homework\obj\Debug\netcoreapp2.1\Homework.dll
+C:\Users\nadezda\Desktop\Проекти за оценяване\my pom\Homework\obj\Debug\netcoreapp2.1\Homework.pdb
